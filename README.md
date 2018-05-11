@@ -6,7 +6,7 @@ A behind-the-scenes look into the coursework and final project for my Data Scien
 - Web data extraction using Beautiful Soup and APIs
 - Applied knowledge of statistical techniques such as correlation, linear regression, logistic regression and A/B testing
 - Implementation and evaluation of several machine learning models including:
-  - Classification: k-nearest neighbors, SVM, decision trees, naive bayes
+  - Classification: k-nearest neighbors, SVM, decision trees
   - Clustering: k-means, hierarchical 
 - Natural Language Processing and the use of a Naive Bayes classifier
   
